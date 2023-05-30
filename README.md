@@ -4,6 +4,9 @@
 
 Essa api é basicamente um wrapper de uma biblioteca chamada `json-server`, aqui nós temos uma collection chamada `courses`, que nos permite fazer um CRUD de cursos.
 
+
+Um outro detalhe é que aqui temos um arquivo chamado `Insominia_2023-05-30.json`, com ele você pode importar a collection diretamente nos eu **insomnia**
+
 ---
 
 **Executar o projeto**
