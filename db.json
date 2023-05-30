@@ -1,19 +1,13 @@
 {
   "courses": [
     {
-      "id": 1,
-      "name": "ReactJS",
-      "author": "Daniel Lopes",
-      "cover": ""
-    },
-    {
       "id": 2,
       "name": "NodeJS",
       "author": "Guido Cerqueira",
       "cover": ""
     },
     {
-      "name": "VueJS",
+      "name": "VueJS do zero",
       "author": "Daniel Lopes",
       "cover": "https://global-uploads.webflow.com/630fa64ece65e5bfe6574b81/645cec92920ead697b8ea67c_642ac4ae0190116f1202a040_Frame%203465488-p-500.webp",
       "id": 3
